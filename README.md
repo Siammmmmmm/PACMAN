@@ -2,7 +2,7 @@
 
 # *PACMAN*
 ## Program Overview
-**Uses Tiva TM4C123GH6PM Microcontroller** 
+**Uses Tiva TM4C123GH6PM Microcontroller**  
 Program starts with a prompt asking the player to press **`[space]`** to start game.
  
  After starting, `PACMAN` can be controlled using:
