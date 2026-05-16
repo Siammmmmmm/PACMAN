@@ -1,0 +1,6 @@
+"./pacman_library.obj"
+"./pacman_main.obj"
+"./pacman_wrapper.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
