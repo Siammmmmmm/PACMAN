@@ -2,14 +2,14 @@
 
 # *PACMAN*
 ## Program Overview
-**Uses Tiva TM4C123GH6PM Microcontroller**
+**Uses Tiva TM4C123GH6PM Microcontroller** 
 Program starts with a prompt asking the player to press **`[space]`** to start game.
  
  After starting, `PACMAN` can be controlled using:
   **`[W][A][S][D]`** or **`[up arrow][left arrow][down arrow][right arrow]`**
 keys to go *UP, LEFT, DOWN, RIGHT* respectively. 
 
-`GHOSTS` randomly move around the board and `PACMAN` loses **1** life if they come in contact with eachother with the game ending after all **4** lives are lost. 
+`GHOSTS` randomly move around the board and `PACMAN` loses **1** life if they come in contact with each other with the game ending after all **4** lives are lost. 
 The lives are shown on the screen and also represented by the *number* of LEDs on the AliceEdu base board. 
 
 Each `PELLET [.]` is eaten when `PACMAN` moves past it and is ***+10*** to the score. There are
